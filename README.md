@@ -21,9 +21,9 @@
 
 </p><h3 align="left">Linguagens:</h3><p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"></p> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 
