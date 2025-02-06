@@ -9,8 +9,7 @@
 - 🔭 Atualmente estou trabalhando em [Projeto Pessoal]()
 
 <br>- 🌱 Atualmente estou aprendendo **Java, PHP** 
-
-<br>- 👨‍💻 Todos os meus projetos estão disponíveis em [Em Breve] <br>
+<br>- 👨‍💻 Todos os meus projetos estão disponíveis em [Em Breve]
 <br>- ⚡ Curiosidade **Desejando aprender mais**
 
 <h3 align="left">Conecte-se comigo:</h3>
