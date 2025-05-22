@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/>
+<img src="https://wallpaper.forfun.com/fetch/12/122d0afd5b7750b30ca54ca7e67a51ed.jpeg"/>
 
 <h1 align="center">Olá 👋, eu sou Samuel Barbosa </h1>
 
