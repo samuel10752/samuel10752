@@ -50,10 +50,6 @@
 </div>
 <br/>
 
-## Visitas no perfil:
-![visitas em perfil](https://profile-counter.glitch.me/samuel10752/count.svg)
-
-
 ## 🏆 Troféus:
 ![troféus](https://github-profile-trophy.vercel.app/?username=samuel10752&theme=tokyonight&no-frame=true)
 
