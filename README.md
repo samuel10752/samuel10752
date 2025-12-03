@@ -3,8 +3,8 @@
 <div align="left">
 </br>
   <img height="180em" width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel10752&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel10752&layout=compact&langs_count=7&theme=dark"/>
-  <img align="bottom" src="https://i.gifer.com/PYh.gif" width="90" height="140" border="0" alt="" />
+  <!-- <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel10752&layout=compact&langs_count=7&theme=dark"/> -->
+  <!-- <img align="bottom" src="https://i.gifer.com/PYh.gif" width="90" height="140" border="0" alt="" /> -->
 </div>
 </br>
 
@@ -56,6 +56,6 @@
 
 ## 💡 Últimos Projetos
 
-- App_Senha 
-- Clear_System
-- Unitutorias
+- Bot-Shope
+- Unituturiais
+- ERP
